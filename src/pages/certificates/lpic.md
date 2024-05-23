@@ -1,5 +1,5 @@
 ---
-title: CERTIFIED  LPIC-2 (Active)
+title: LPIC-2 (Active)
 org: Linux Professional Institute
 tags: [Tactical Medicine, First Aid Training, Critical Care, Triage Protocol]
 url: https://cs.lpi.org/caf/Xamman/certification

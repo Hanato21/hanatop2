@@ -1,5 +1,5 @@
 ---
-title: Certified OSS-DB Exam Silver (Active)
+title: OSS-DB Exam Silver (Active)
 org: LPI-JAPAN 
 tags: [SQL, PostgreSQL]
 url: https://ma.educo-j.or.jp/d/EID900038927/fzaey2zrgk
