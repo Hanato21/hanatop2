@@ -1,5 +1,5 @@
 ---
-title: Telegram
-icon: mdi:telegram
-url: https://t.me/
+title: Twitter
+icon: mdi:twitter
+url: https://twitter.com/dottobatto
 ---

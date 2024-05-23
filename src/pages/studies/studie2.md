@@ -1,8 +1,22 @@
 ---
-title: MASTER OF Electrical Engineering and Electronics Program
+title: MASTER OF ELECTRICAL ENGINEERING AND ELECTRONICS PROGRAM
 location: Tokyo Japan
-url: https://www.kogakuin.ac.jp/index.html
 institute: Kogakuin University
 date: 2016-2018
-tags: ["Electric", "Telecommunications", "Linux", "TCP/IP", "CUBIC TCP", "Compound TCP", "CoDel", "Queue Management", "Kernel Compile", "4G/5G", "Android", "TCP BBR", "VPN"]
+tags:
+  [
+    "Electric",
+    "Telecommunications",
+    "Linux",
+    "4G/5G",
+    "iperf",
+    "CoDel",
+    "CUBIC TCP",
+    "Compound TCP",
+    "TCP BBR",
+    "Queue Management",
+    "Kernel Compile",
+    "Android",
+    "VPN",
+  ]
 ---
