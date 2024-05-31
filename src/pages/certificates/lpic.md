@@ -1,7 +1,7 @@
 ---
 title: LPIC-2 (Active)
 org: Linux Professional Institute
-tags: [Tactical Medicine, First Aid Training, Critical Care, Triage Protocol]
+tags: [Linux, DNS, TCP/IP, mail, security, DHCP, Samba, Firewall, Filesystem, Kernel, Storage, Apache/Nginx]
 url: https://cs.lpi.org/caf/Xamman/certification
 date: 2023
 ---
