@@ -8,6 +8,16 @@ import { Icon } from "astro-icon/components";
 
 <html lang="gl">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DFZSE0M4Q6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-DFZSE0M4Q6');
+    </script>
+
     <script is:inline>
       if (localStorage.getItem("theme") === null) {
         document.documentElement.setAttribute("data-theme", "lofi");
